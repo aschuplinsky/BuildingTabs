@@ -1,0 +1,11 @@
+a{
+  text-decoration: none;
+  color: navy;
+}
+div{
+  background-color: lightblue;
+  border-style: solid;
+}
+div:hover{
+  background-color: lightgreen;
+}
